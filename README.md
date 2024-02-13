@@ -27,6 +27,14 @@ An enthusiastic technology and software development enthusiast! I love exploring
   </a>
 </div>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+
 <h3 align="left">⭐Skills⭐</h3><br>
 Currently, I am focused on web development and I'm fascinated by user interface design and creating interactive experiences. I enjoy working in teams and collaborating on exciting projects.
 
