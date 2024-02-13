@@ -54,7 +54,13 @@ I am proficient in programming languages such as JavaScript, HTML, and CSS, and 
 <p style="font-size: 10px;">
 I am excited to continue exploring the world of technology and contribute my skills to exciting projects! I am always open to new learning opportunities and collaborations. Let's talk and see how we can work together!</p>
 
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 
