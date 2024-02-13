@@ -19,3 +19,11 @@ I am proficient in programming languages such as JavaScript, HTML, and CSS, and 
 </br>
 <p style="font-size: 10px;">
 I am excited to continue exploring the world of technology and contribute my skills to exciting projects! I am always open to new learning opportunities and collaborations. Let's talk and see how we can work together!</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+  ![html](https://img.shields.io/badge/html5-3776AB?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
+  ![css](https://img.shields.io/badge/css-3776AB?style=for-the-badge&logo=css3&logoColor=skyblue)&nbsp;
+  ![sass](https://img.shields.io/badge/sass-ED8B00?style=for-the-badge&logo=sass&logoColor=red)&nbsp;
+  ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+  ![Javascript](https://img.shields.io/badge/Javascript-%23008080.svg?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
+  ![react](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=blue)
