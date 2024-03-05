@@ -12,8 +12,14 @@
   ![Javascript](https://img.shields.io/badge/Javascript-%23008080.svg?style=for-the-badge&logo=javascript&logoColor=yellow)&nbsp;
   ![react](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=blue)
 
+🚀 ¡Bienvenido a mi mundo digital! 🚀
+🔭 En este momento, estoy inmerso en la creación de un emocionante mercado en línea, donde cada línea de código es una puerta hacia nuevas experiencias.
 
-An enthusiastic technology and software development enthusiast! I love exploring new technologies and continuously learning to improve my skills.
+🌱 Además, estoy explorando las profundidades de Docker, Supabase y AWS, añadiendo herramientas poderosas a mi arsenal de desarrollo web.
+
+💬 ¿Tienes alguna pregunta sobre el fascinante mundo del desarrollo web? ¡No dudes en preguntar sobre Node.js, React, Firebase y mucho más !
+
+⚡ Dato curioso: ¿Sabías que las capas de la Guardia de la Noche en Juego de Tronos están confeccionadas con alfombras de Ikea? ¡La creatividad no conoce límites, al igual que el desarrollo web!
 
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
